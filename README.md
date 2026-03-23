@@ -1,5 +1,3 @@
-# data-ai-salaries-project
-Project on global trends in Data and AI salaries
 
 # Глобальные тренды зарплат в профессиях Data и AI: страны, опыт и формат удалённой работы
 
